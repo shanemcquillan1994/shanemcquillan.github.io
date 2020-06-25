@@ -12,7 +12,7 @@ While I understand this is not a featured competition with cash prize  , this co
 From this competition I learned a lot about additional models available within pythons scikit learn library.  Some of the models I implemented within this assignment were not necessarily covered in much depth within class , so it was very beneficial in that regard. All in all , this competition allowed me to demonstrate my  knowledge of machine learning techniques, my ability to apply technical skills to build actual machine learning models, and showed capacity to evaluate state-of-the-art machine learning approaches.  
 
 
-You will find two files associated with this project.
+You will find two files associated with this project within PredictHousePrices.zip.
 
   - PredictHousePrices.ipynb i.e Notebook showing my work
   - PredictHousePrices.html HTML version of my notebook to view within browser.
