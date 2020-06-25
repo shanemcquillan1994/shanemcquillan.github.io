@@ -27,4 +27,9 @@ fIFA 19 is a football simulation video game developed by EA Sports. The first ev
 
 Within this R Markdown notebook I explore the Data set and try to get a better picture of the data along the way.
 
+3) Visualisation and analysis of Irelands National Hospitals on case by case basis
+
+I wanted to explore a problem frequently gets discussed within the Irish media from year to year. That being the Irish health system and the problems identified with it. After some research I came across the eHealth Ireland’s website.  Here I was able to find data that was collected by the National Treatment Purchase Fund (NTPF) . As the NTPF’S website details , one of the key tasks for the NTPF is to Collect, collate and validate information on persons waiting for public hospital treatment. eHealth Ireland makes these open datasets more visible to the public. It was here I found the datasets for “IPDC WAITING LIST BY GROUP HOSPITAL”. The IPDC Waiting List report shows the total number of patients waiting, across the various time bands, for Inpatient and Day case treatment in each Specialty. The monthly waiting list figures are published on the NTPF website, and a breakdown of the Inpatient/Day Case waiting list by Adult & Child Analysis is published by hospital. For this assignment I selected the dataset for 2019 as this is the most recent dataset to represent the full year. Currently 2020 is still being updated month by month.
+	You will find supporting visualisations from this Project on my Tableau Public Profile : https://public.tableau.com/profile/shane.mcquillan#!/ .
+I have also uploaded a supporting word document that explains how I went through this analysis.
 
