@@ -17,5 +17,14 @@ You will find two files associated with this project within PredictHousePrices.z
   - PredictHousePrices.ipynb i.e Notebook showing my work
   - PredictHousePrices.html HTML version of my notebook to view within browser.
   
+ At the time of submission , I finished within the to 82nd Percentile of submissions.
   
-  2)
+  
+2) Fifa Data Analysis Using R
+
+For the purpose of data exploration and analysis , I wanted to take a look in to publicly available data regarding FIFA 19.
+fIFA 19 is a football simulation video game developed by EA Sports. The first ever game of Fifa was developed in the year 1993 under the title "Fifa International Soccer".  Over the years the game has seen a dramatic increase in quality and every year pushes the barrier in game development. It is in my opinion that the Data set gathered from this game is probably the most accurate data set publicly available that can represent real world professional soccer. 
+
+Within this R Markdown notebook I explore the Data set and try to get a better picture of the data along the way.
+
+
