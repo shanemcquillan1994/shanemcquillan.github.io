@@ -43,7 +43,7 @@ We are all affected by the environment we live in and by the choices we make thr
   As Secondary education is the precursor to tertiary level education I would like to explore why there is such low volume of graduates from tertiary level education. As I briefly touched on in my introduction , students are affected by external factors that may or may not influence their progression in the education system.
     Within the support zip folder I will explore different factors which may impact the lives of Portuguese secondary level students and their achievements in school. Within this report I will focus on secondary school students’ Mathematics and Portuguese performance in Portugal and also their overall well being. I will explore the relationships these factors have with with final grades and also how well these factors can contribute to predicting the students grades. This is the basis of my researh question.
     
-    5) Kaggle Competition : Image Classification : Leaf Disease Detection
+5) Kaggle Competition : Image Classification : Leaf Disease Detection
     
     https://www.kaggle.com/c/cassava-leaf-disease-classification/overview 
     
