@@ -42,3 +42,23 @@ We are all affected by the environment we live in and by the choices we make thr
   Within this project I performed some exploration in to the External Factors that influence Secondary Student’s Mathematics and Portuguese achievements in Portugal.In Portugal. the demand for higher education intensified during the sixties and continued to increase during the fol/owing years in such a way that mechanisms of control over access have been imposed since 1976 ( Maria Manuel, 1996). Despite this fact , about 25% of adults (25-64 year-old) in Portugal have attained tertiary education (OECD, 2012).
   As Secondary education is the precursor to tertiary level education I would like to explore why there is such low volume of graduates from tertiary level education. As I briefly touched on in my introduction , students are affected by external factors that may or may not influence their progression in the education system.
     Within the support zip folder I will explore different factors which may impact the lives of Portuguese secondary level students and their achievements in school. Within this report I will focus on secondary school students’ Mathematics and Portuguese performance in Portugal and also their overall well being. I will explore the relationships these factors have with with final grades and also how well these factors can contribute to predicting the students grades. This is the basis of my researh question.
+    
+    5) Kaggle Competition : Image Classification : Leaf Disease Detection
+    
+    https://www.kaggle.com/c/cassava-leaf-disease-classification/overview 
+    
+    1. Problem
+
+As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
+
+The task at hand here is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. 
+
+2. Data
+
+In this competition, we introduce a dataset of 21,367 labeled images collected during a regular survey in Uganda. Most images were crowdsourced from farmers taking photos of their gardens, and annotated by experts at the National Crops Resources Research Institute (NaCRRI) in collaboration with the AI lab at Makerere University, Kampala. This is in a format that most realistically represents what farmers would need to diagnose in real life.
+
+3. Evaluation
+
+Submissions were be evaluated based on their categorization accuracy.
+
+Attached within zip "Image_Classification_CassavaDisease_TensorFlowHub.zip" you can find the relevant code within notebook format.
