@@ -1,7 +1,7 @@
 # shanemcquillan.github.io
 
 
-Here you will find a list of Project I have taken part of.
+Here you will find a list of Projects I have undertaken since beginning my journey in to data science and machine learning.
 
 ## Kaggle Competition for Predicting House Prices using Machine learning.
 
@@ -47,32 +47,32 @@ We are all affected by the environment we live in and by the choices we make thr
     
     https://www.kaggle.com/c/cassava-leaf-disease-classification/overview 
     
-1. Problem
+### Problem
 
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
 
 The task at hand here is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. 
 
-2. Data
+### Data
 
 In this competition, we introduce a dataset of 21,367 labeled images collected during a regular survey in Uganda. Most images were crowdsourced from farmers taking photos of their gardens, and annotated by experts at the National Crops Resources Research Institute (NaCRRI) in collaboration with the AI lab at Makerere University, Kampala. This is in a format that most realistically represents what farmers would need to diagnose in real life.
 
-3. Evaluation
+### Evaluation
 
 Submissions were be evaluated based on their categorization accuracy.
 
 Attached within zip "Image_Classification_CassavaDisease_TensorFlowHub.zip" you can find the relevant code within notebook format.
 
 
-## Predicting COVID-19 Diagnosis based on CT Scans
+## Classifying COVID-19 Diagnosis based on CT Scans
 
-1. Problem
+### Problem
 
 This last year has been a strange one in our world. It seems the entire world is coming together to try and tackle the COVID 19 outbreak. It has been the biggest pandemic to rock the world since the Spanish flu ended in 1920.
 
 The aim of this project is to demonstrate that this dataset is useful for developing AI-based diagnosis models of COVID-19. Using this dataset, I aim to develop diagnosis methods based on multi-task learning and self-supervised learning.
 
-2. The Data
+### The Data
 
 During the outbreak time of COVID-19, computed tomography (CT) is a useful manner for diagnosing COVID-19 patients. Due to privacy issues, publicly available COVID-19 CT datasets are highly difficult to obtain, which hinders the research and development of AI-powered diagnosis methods of COVID-19 based on CTs.
 
@@ -82,7 +82,7 @@ The data and code are available at here : https://github.com/UCSD-AI4H/COVID-CT
 
 The utility of this dataset has been confirmed by a senior radiologist in Tongji Hospital, Wuhan, China, who has performed diagnosis and treatment of a large number of COVID-19 patients during the outbreak of this disease between January and April.
 
-3. Evaluation
+### Evaluation
 
 For this project , I will evaluate my model with F1-score. I am doing this simply because it is far more important to ensure that False Negatives and False Positives are taken in to account of importance.
 
@@ -92,7 +92,7 @@ F1-score : This is the harmonic mean of Precision and Recall and gives a better 
 
 In the original report , the study gained an an F1 of 0.85 and an AUC of 0.94 in diagnosing COVID-19 from CT scans. In this notebook , I will try to better match this or even beat this performance.
 
-4. Features
+### Features
 
 In this project I am dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
 
