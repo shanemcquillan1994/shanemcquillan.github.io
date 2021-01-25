@@ -3,7 +3,7 @@
 
 Here you will find a list of Project I have taken part of.
 
-1) Kaggle Competition for Predicting House Prices using Machine learning.
+## Kaggle Competition for Predicting House Prices using Machine learning.
 
 My main reasoning for choosing this competition was mostly down to the fact that there was test data available for Kaggle to evaluate my performance. From checking out the list of available competitions with available test data , this competition was the most interesting to me. This competition allowed me to put most of what we learned within my postgraduate studies to practice.
 
@@ -20,21 +20,21 @@ You will find two files associated with this project within PredictHousePrices.z
  At the time of submission , I finished within the to 82nd Percentile of submissions.
   
   
-2) Fifa Data Analysis Using R
+## Fifa Data Analysis Using R
 
 For the purpose of data exploration and analysis , I wanted to take a look in to publicly available data regarding FIFA 19.
 fIFA 19 is a football simulation video game developed by EA Sports. The first ever game of Fifa was developed in the year 1993 under the title "Fifa International Soccer".  Over the years the game has seen a dramatic increase in quality and every year pushes the barrier in game development. It is in my opinion that the Data set gathered from this game is probably the most accurate data set publicly available that can represent real world professional soccer. 
 
 Within this R Markdown notebook I explore the Data set and try to get a better picture of the data along the way.
 
-3) Visualisation and analysis of Irelands National Hospitals on case by case basis
+## Visualisation and analysis of Irelands National Hospitals on case by case basis
 
 I wanted to explore a problem frequently gets discussed within the Irish media from year to year. That being the Irish health system and the problems identified with it. After some research I came across the eHealth Ireland’s website.  Here I was able to find data that was collected by the National Treatment Purchase Fund (NTPF) . As the NTPF’S website details , one of the key tasks for the NTPF is to Collect, collate and validate information on persons waiting for public hospital treatment. eHealth Ireland makes these open datasets more visible to the public. It was here I found the datasets for “IPDC WAITING LIST BY GROUP HOSPITAL”. The IPDC Waiting List report shows the total number of patients waiting, across the various time bands, for Inpatient and Day case treatment in each Specialty. The monthly waiting list figures are published on the NTPF website, and a breakdown of the Inpatient/Day Case waiting list by Adult & Child Analysis is published by hospital. For this assignment I selected the dataset for 2019 as this is the most recent dataset to represent the full year. Currently 2020 is still being updated month by month.
 	You will find supporting visualisations from this Project on my Tableau Public Profile : https://public.tableau.com/profile/shane.mcquillan#!/ .
 I have also uploaded a supporting word document that explains how I went through this analysis.
 
 
-4) Statistical Analysis and Hypothesis Testing with R.
+## Statistical Analysis and Hypothesis Testing with R.
 
 We are all affected by the environment we live in and by the choices we make throughout our life. We are affected by the culture that surrounds us and this very culture shapes who are as beings from childhood adolescence to adulthood. 
   One of the most influential times in our life is our time spent in adolescence (ages 13 - 18). For the majority of this time we will spend within Secondary level education system.Secondary education is vitally important for the individual as well as the collective life (G.R. Memon, 2010). It is Secondary level education that prepares a student for demands of the working society. It is in Secondary education that a student will form their own opinions on society while attempting to expand their knowledge in areas that are considered important in society.
@@ -43,7 +43,7 @@ We are all affected by the environment we live in and by the choices we make thr
   As Secondary education is the precursor to tertiary level education I would like to explore why there is such low volume of graduates from tertiary level education. As I briefly touched on in my introduction , students are affected by external factors that may or may not influence their progression in the education system.
     Within the support zip folder I will explore different factors which may impact the lives of Portuguese secondary level students and their achievements in school. Within this report I will focus on secondary school students’ Mathematics and Portuguese performance in Portugal and also their overall well being. I will explore the relationships these factors have with with final grades and also how well these factors can contribute to predicting the students grades. This is the basis of my researh question.
     
-5) Kaggle Competition : Image Classification : Leaf Disease Detection
+## Kaggle Competition : Image Classification : Leaf Disease Detection
     
     https://www.kaggle.com/c/cassava-leaf-disease-classification/overview 
     
@@ -64,7 +64,7 @@ Submissions were be evaluated based on their categorization accuracy.
 Attached within zip "Image_Classification_CassavaDisease_TensorFlowHub.zip" you can find the relevant code within notebook format.
 
 
-6) Predicting COVID-19 Diagnosis based on CT Scans
+## Predicting COVID-19 Diagnosis based on CT Scans
 
 1. Problem
 
