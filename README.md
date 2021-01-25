@@ -47,7 +47,7 @@ We are all affected by the environment we live in and by the choices we make thr
     
     https://www.kaggle.com/c/cassava-leaf-disease-classification/overview 
     
-    1. Problem
+1. Problem
 
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
 
@@ -62,3 +62,43 @@ In this competition, we introduce a dataset of 21,367 labeled images collected d
 Submissions were be evaluated based on their categorization accuracy.
 
 Attached within zip "Image_Classification_CassavaDisease_TensorFlowHub.zip" you can find the relevant code within notebook format.
+
+
+6) Predicting COVID-19 Diagnosis based on CT Scans
+
+1. Problem
+
+This last year has been a strange one in our world. It seems the entire world is coming together to try and tackle the COVID 19 outbreak. It has been the biggest pandemic to rock the world since the Spanish flu ended in 1920.
+
+The aim of this project is to demonstrate that this dataset is useful for developing AI-based diagnosis models of COVID-19. Using this dataset, I aim to develop diagnosis methods based on multi-task learning and self-supervised learning.
+
+2. The Data
+
+During the outbreak time of COVID-19, computed tomography (CT) is a useful manner for diagnosing COVID-19 patients. Due to privacy issues, publicly available COVID-19 CT datasets are highly difficult to obtain, which hinders the research and development of AI-powered diagnosis methods of COVID-19 based on CTs.
+
+This open-sourced dataset -- COVID-CT, contains 349 COVID-19 CT images from 216 patients and 463 non-COVID-19 CTs. The utility of this dataset is confirmed by a senior radiologist who has been diagnosing and treating COVID-19 patients since the outbreak of this pandemic.
+
+The data and code are available at here : https://github.com/UCSD-AI4H/COVID-CT
+
+The utility of this dataset has been confirmed by a senior radiologist in Tongji Hospital, Wuhan, China, who has performed diagnosis and treatment of a large number of COVID-19 patients during the outbreak of this disease between January and April.
+
+3. Evaluation
+
+For this project , I will evaluate my model with F1-score. I am doing this simply because it is far more important to ensure that False Negatives and False Positives are taken in to account of importance.
+
+For example , Let's say my model will produce an accuracy in this case = 90% which is a high enough number for the model to be considered as ‘accurate’. However, there are 5 patients who actually have Covid-19 and the model predicted that they don’t have it. Obviously, this is too high a cost. I want my model should try to minimize these False Negatives. This is why I will use F1 score.
+
+F1-score : This is the harmonic mean of Precision and Recall and gives a better measure of the incorrectly classified cases than the Accuracy Metric.
+
+In the original report , the study gained an an F1 of 0.85 and an AUC of 0.94 in diagnosing COVID-19 from CT scans. In this notebook , I will try to better match this or even beat this performance.
+
+4. Features
+
+In this project I am dealing with images (unstructured data) so it's probably best we use deep learning/transfer learning.
+
+This is is a binary classification problem, either positive or negative in each case.
+
+There are around 320 positive COVID-19 images in the training set (with or without labels).
+
+There are around 141 negative COVID-19 images in the training set (with or without labels)
+
